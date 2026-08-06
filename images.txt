@@ -25,3 +25,4 @@ docker.elastic.co/elasticsearch/elasticsearch:8.14.3
 docker.elastic.co/kibana/kibana:8.14.3
 downloads.unstructured.io/unstructured-io/unstructured-api:latest
 couchbase/server
+rabbitmq:4.3.4-management-alpine
