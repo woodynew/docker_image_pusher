@@ -12,3 +12,4 @@ apache/rocketmq:5.5.0
 agentmemory/memory-core:1.0.2
 agentmemory/memory-hub:1.0.2
 agentmemory/memory-proxy:1.0.2
+libretranslate/libretranslate:v1.9.6
